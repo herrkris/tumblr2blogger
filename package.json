@@ -1,0 +1,19 @@
+{
+  "name": "tumblr2blogger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "googleapis": "^16.1.0",
+    "moment": "^2.17.1",
+    "tumblr": "^0.4.1",
+    "tumblr.js": "^1.1.1",
+    "xml2js": "^0.4.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
